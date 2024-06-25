@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohammadDaleen
-- 👀 I’m interested in progamming in general
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on life improvement projects
+- 👀 I’m interested in programming in general
+- 🌱 I’m currently learning CS50w
+- 💞️ I’m looking to collaborate on life-improvement projects
 - 📫 How to reach me mohammaddalien2003@gmail.com
 
 <!---
